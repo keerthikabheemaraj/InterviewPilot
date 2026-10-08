@@ -1,0 +1,6 @@
+{
+  "name": "InterviewPilot AI",
+  "description": "Personalized AI Mock Interview & Performance Evaluation System analyzing resumes, job roles, skill gaps, per-answer evaluations, and improvement roadmaps.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
